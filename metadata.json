@@ -1,0 +1,6 @@
+{
+  "name": "ZeroPoint News | জিরো পয়েন্ট নিউজ",
+  "description": "২৪ ঘণ্টা তাজা খবর, ব্রেকিং নিউজ, বিশেষ অনুসন্ধানী প্রতিবেদন ও লাইভ টিভি সম্প্রচার - জিরো পয়েন্ট নিউজ।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
